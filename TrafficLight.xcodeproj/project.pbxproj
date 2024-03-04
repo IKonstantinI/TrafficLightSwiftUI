@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		4E8879E72B959198002CC3C0 /* StartButtonView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E8879E62B959198002CC3C0 /* StartButtonView.swift */; };
 		4EEE60352B91B46F00A68E3C /* TrafficLightApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EEE60342B91B46F00A68E3C /* TrafficLightApp.swift */; };
 		4EEE60372B91B46F00A68E3C /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EEE60362B91B46F00A68E3C /* ContentView.swift */; };
 		4EEE60392B91B47300A68E3C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4EEE60382B91B47300A68E3C /* Assets.xcassets */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		4E8879E62B959198002CC3C0 /* StartButtonView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StartButtonView.swift; sourceTree = "<group>"; };
 		4EEE60312B91B46F00A68E3C /* TrafficLight.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TrafficLight.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		4EEE60342B91B46F00A68E3C /* TrafficLightApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TrafficLightApp.swift; sourceTree = "<group>"; };
 		4EEE60362B91B46F00A68E3C /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -55,6 +57,7 @@
 			children = (
 				4EEE60342B91B46F00A68E3C /* TrafficLightApp.swift */,
 				4EEE60362B91B46F00A68E3C /* ContentView.swift */,
+				4E8879E62B959198002CC3C0 /* StartButtonView.swift */,
 				4EEE60422B91B48C00A68E3C /* CircleView.swift */,
 				4EEE60382B91B47300A68E3C /* Assets.xcassets */,
 				4EEE603A2B91B47300A68E3C /* Preview Content */,
@@ -141,6 +144,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				4EEE60432B91B48C00A68E3C /* CircleView.swift in Sources */,
+				4E8879E72B959198002CC3C0 /* StartButtonView.swift in Sources */,
 				4EEE60372B91B46F00A68E3C /* ContentView.swift in Sources */,
 				4EEE60352B91B46F00A68E3C /* TrafficLightApp.swift in Sources */,
 			);
